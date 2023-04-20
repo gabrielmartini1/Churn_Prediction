@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-gabrielmartini1-red.svg)](https://www.linkedin.com/in/gabrielmartini1) [![](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/gabrielmartini1/data_science/issues)
 
-# Credit Card Fraud Detection
-An analysis exploratory of credit card detection data in Europe
+# Customer Churn Prediction
+An exploratory analysis of customer churn prediction data
 <br><br><br>
 
 <p align="center"><strong>RESUMO</strong></p>
@@ -15,7 +15,7 @@ An analysis exploratory of credit card detection data in Europe
 
 <p align="justify">O objetivo geral deste estudo é analisar e interpretar dados relacionados a Detecção de Fraude em cartões de crédito, construindo um modelo para classificação de machine learning, avaliar o desempenho do modelo, identificar a melhor métrica para esse tipo de modelo, comparar o seu desempenho com relação a outros modelos e testar alguns algorítmos para a detecção de anomalias.</p>
 
-**Palavras-Chave:** Machine Learning; Aprendizado de Máquina; Matriz de Confusão; Algorítmo de detecção de anomalias.
+**Palavras-Chave:** Machine Learning, Churn rate, predictive model.
 
 <br><br><br>
 
